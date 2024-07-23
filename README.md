@@ -1,0 +1,1 @@
+In this repository, I've uploaded all my presentations, including my final data science report, a PowerPoint for my class presentation on the secrets of Egypt, and the report from my virtual internship at Quantium.
